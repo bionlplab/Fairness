@@ -21,6 +21,8 @@ The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC
 
 ### Quickstart
 
+I used the experiment on the MIMIC-CXR dataset on the intersectional groups as an example.
+
 ```sh
 python train_mimic_intersection.py
 ```
