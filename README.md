@@ -15,6 +15,7 @@ The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC
 * pandas
 * opencv
 * skimage
+* tqdm
 
 ### Quickstart
 
