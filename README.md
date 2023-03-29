@@ -9,18 +9,20 @@ The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC
 ### Prerequisites
 
 * python >=3.6
-* keras
-* tensorflow-gpu = 2.2.0
+* pytorch = 1.11.0
+* torchvision = 0.12.0
 * sklearn
 * pandas
 * opencv
 * skimage
 * tqdm
+* json
+* pickle
 
 ### Quickstart
 
 ```sh
-python train.py
+python train_mimic_intersection.py
 ```
 
 ### Reference
