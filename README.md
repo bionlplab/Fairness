@@ -33,4 +33,4 @@ python train_mimic_intersection.py
 
 ### Acknowledgment
 
-This work was supported by the National Library of Medicine under Award No. 4R00LM013001, NSF CAREER Award No. 2145640, and Amazon Research Award.![image](https://user-images.githubusercontent.com/32189206/228617449-6093d6b3-74c0-4c9b-aa4b-374643e9c0c6.png)
+This work was supported by the National Library of Medicine under Award No. 4R00LM013001, NSF CAREER Award No. 2145640, and Amazon Research Award.
