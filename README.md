@@ -11,13 +11,13 @@ The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC
 * python >=3.6
 * pytorch = 1.11.0
 * torchvision = 0.12.0
-* sklearn
-* pandas
-* opencv
-* skimage
-* tqdm
-* json
-* pickle
+* sklearn = 0.23.2
+* pandas = 1.4.1
+* opencv = 4.5.0
+* skimage = 0.17.2
+* tqdm = 4.48.2
+* json = 0.9.6
+* pickle = 2.2.1
 
 ### Quickstart
 
