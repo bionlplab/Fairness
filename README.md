@@ -1,5 +1,7 @@
 # Improving model fairness in image-based computer-aided diagnosis
 
+[![DOI](https://zenodo.org/badge/609991694.svg)](https://zenodo.org/badge/latestdoi/609991694)
+
 ## Datasets
 
 The first dataset is provided by Medical Imaging and Data Resource Center (MIDRC) and is available through this website (https://data.midrc.org/). The AREDS dataset is publicly available on NCBI dbGAP (https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000001.v3.p1). The OHTS dataset is available upon request due to patient protection (https://ohts.wustl.edu/). The MIMIC-CXR dataset is publicly available on PhysioNet (https://www.physionet.org/content/mimic-cxr-jpg/).
