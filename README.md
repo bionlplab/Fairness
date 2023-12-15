@@ -31,7 +31,7 @@ python train_mimic_intersection.py
 
 ### Reference
 
-
+Lin M, Li T, Yang Y, Holste G, Ding Y, Van Tassel SH, Kovacs K, Shih G, Wang Z, Lu Z, Wang F, Peng Y. Improving model fairness in image-based computer-aided diagnosis. Nat Commun. 2023 Oct 6;14(1):6261. doi: 10.1038/s41467-023-41974-4. PMID: 37803009; PMCID: PMC10558498.
 
 ### Acknowledgment
 
